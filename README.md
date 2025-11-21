@@ -2,7 +2,7 @@
   <img src="./docs/logo.svg" />
 </p>
 
-<h1 align="center">稀土掘金助手</h1>
+<h1 align="center">稀土掘金助手 </h1>
 
 <p align="center">
   <a href="https://github.com/remy/nodemon">
